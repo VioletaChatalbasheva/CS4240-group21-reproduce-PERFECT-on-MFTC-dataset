@@ -22,7 +22,7 @@ In order to run the project you need to do the following:
 #### Clone
 Clone this repo to your local machine using:
 ```
-https://github.com/VioletaChatalbasheva/CS4240-few-shot-fine-tuning-PLM.git
+https://github.com/VioletaChatalbasheva/CS4240-group21-reproduce-PERFECT-on-MFTC-dataset
 ```
 
 #### Install Requirements

@@ -1,0 +1,16 @@
+# All dependencies need to be installed before initialization of the system.
+
+transformers==4.10.2
+tabulate
+pandas
+
+# The Latest version: datasets==2.10.1 (switch to it in case of any issues)
+datasets==2.10.1 # for preprocessing the data
+# datasets==1.13 # for training the model # script_version is renamed to revision is 1.13 and removed from version 1.15
+
+sentencepiece != 0.1.92
+protobuf
+rouge-score
+nltk
+py7zr
+scikit-learn
